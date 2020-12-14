@@ -1,6 +1,5 @@
 ---
-theme: jekyll-theme-midnight
-layout: page
+layout: default
 title:  About
 permalink: /about/
 ---
