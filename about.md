@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:  About
 permalink: /about/
 ---
@@ -19,3 +19,4 @@ Else, you can enjoy some half-finished projects on my [GitHub](https://github.co
 
 
 [Home](README.md)
+a
