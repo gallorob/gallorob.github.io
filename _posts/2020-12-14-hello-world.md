@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-midnight
-layout: post
+layout: default
 title:  Hello world
 ---
 
@@ -10,4 +10,4 @@ Mandatory joke for the first post.
 
 It's all uphill from here.
 
-a
+b
