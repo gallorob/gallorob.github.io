@@ -12,4 +12,4 @@ It's all uphill from here.
 
 
 
-[Home](README.md)
+[Home](https://gallorob.github.io/)
