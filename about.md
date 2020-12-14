@@ -1,5 +1,4 @@
 ---
-theme: jekyll-theme-midnight
 layout: page
 title:  About
 permalink: /about/
@@ -13,4 +12,10 @@ I am a MSc student at _La Sapienza (Rome, Italy)_ in _Artificial Intelligence & 
 
 I'm a decent Python programmer and lately I mostly write code for my thesis and university related projects.
 
-You can find more weird stuff on my [twitter](https://twitter.com/gallorob2).
+You can find more weird rambles on my [Twitter](https://twitter.com/gallorob2).
+
+Else, you can enjoy some half-finished projects on my [GitHub](https://github.com/gallorob).
+
+
+
+[Home](README.md)
