@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 # About me
-![gallorob](https://avatars1.githubusercontent.com/u/32876132?s=460&u=04061a41dc379f3047290ed4621c9ade164f0f5e&v=4)
+<p align="center">
+  <img src="https://avatars1.githubusercontent.com/u/32876132?s=460&u=04061a41dc379f3047290ed4621c9ade164f0f5e&v=4?raw=true" alt="gallorob" height="100"/>
+</p>
 
 
 I am a MSc student at _La Sapienza (Rome, Italy)_ in _Artificial Intelligence & Robotics_. I did my bachelors at _Università degli studi di Pavia (Pavia, Italy)_ in _Ingegneria Elettronica e Informatica_ (Computer and Electronic engineering).

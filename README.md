@@ -9,3 +9,5 @@ Read more in the [About](about.md) section.
 * 2020
   * December
     * [Hello world](_posts/2020-12-14-hello-world.md) (2020-12-14)
+* Others:
+  * [Paper notes](paper_notes.md)
