@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-midnight
 layout: page
 title:  About
 permalink: /about/
