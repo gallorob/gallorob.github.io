@@ -17,7 +17,7 @@ Whenever I have time.
 ## Where's this?
 Here:
 * [Evolving Players for an Ancient Game: Hnefatafl](_posts/2020-12-14-paper01.md)
-* [Safe Mutations for Deep and Recurrent Neural Networks through Output Gradients](_posts/2020-12-16-paper02.md) (NOT READY YET, LOOK AWAY)
+* [Safe Mutations for Deep and Recurrent Neural Networks through Output Gradients](_posts/2020-12-16-paper02.md)
 
 ## Who's this?
 <p align="center">
