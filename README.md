@@ -11,3 +11,4 @@ Read more in the [About](about.md) section.
     * [Hello world](_posts/2020-12-14-hello-world.md) (2020-12-14)
 * Others:
   * [Paper notes](paper_notes.md)
+  * [Thesis rambles](thesis_rambles.md)
