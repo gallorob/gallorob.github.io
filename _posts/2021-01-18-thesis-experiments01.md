@@ -73,11 +73,11 @@ The most obvious issue is that neither the defenders nor the attackers are impro
 </p>
 
 I sat staring at this graph for a while, trying to understand what was wrong with my experiment. Then I reached two possible conclusions:
-1. I was not adding enough noise to the agents. After all, the $\mu$ scales the noise vector and the current value was taken from a [different paper](https://arxiv.org/abs/1712.06567) and is a tuneable hyperparameter, so it's not unreasonable that it has to be different for this environment.
+1. I was not adding enough noise to the agents. After all, the $$\mu$$ scales the noise vector and the current value was taken from a [different paper](https://arxiv.org/abs/1712.06567) and is a tuneable hyperparameter, so it's not unreasonable that it has to be different for this environment.
 2. The damned variant is unbalanced. Don't believe me? Check out [this nice summary](http://aagenielsen.dk/tafl_balances.php) from Aage's website: this Tablut variant would easily fall under the "Variant that favours White" category. So, what would this mean? It would mean that the attacker gets **absolutely wrecked** everytime it plays and can't evolve fast enough to catch up with the defender. This would explain the above results as well.
 
 ## Experiment 03
-So what happens when we set $\mu=0.5$? This:
+So what happens when we set $$\mu=0.5$$? This:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gallorob/gallorob.github.io/main/media/exp01/exp03.png?raw=True" alt="Graph" height="250"/>
@@ -86,7 +86,7 @@ So what happens when we set $\mu=0.5$? This:
 ... Yeah, pretty much nothing changes. Moving on.
 
 ## Experiment 04
-Since the $\mu$ theory was a bust, it was time to see if the other hypothesis was correct. To do so, we froze the entire defender's population: at every iteration, we would only let the attacker reproduce and reset the defenders' Elo to 1000. So, what happens when we do this?
+Since the $$\mu$$ theory was a bust, it was time to see if the other hypothesis was correct. To do so, we froze the entire defender's population: at every iteration, we would only let the attacker reproduce and reset the defenders' Elo to 1000. So, what happens when we do this?
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gallorob/gallorob.github.io/main/media/exp01/exp04.png?raw=True" alt="Graph" height="250"/>
@@ -174,7 +174,7 @@ Well, this is marginally better than utter shit: the attacker *sometimes* evolve
 ... Time to enable the elitists again, I guess 🤷‍♂️.
 
 ## Experiment 09
-So I enable the elitists feature again and increased $\mu$ to 0.5. This was obviously the stroke of genius that I needed: the elitism would assure me I'd get a smooth (Score) curve and the larger noise would increase my chances of finding better agents.
+So I enable the elitists feature again and increased $$\mu$$ to 0.5. This was obviously the stroke of genius that I needed: the elitism would assure me I'd get a smooth (Score) curve and the larger noise would increase my chances of finding better agents.
 
 So I ran the experiment. These are the Scores:
 
