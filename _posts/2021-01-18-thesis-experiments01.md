@@ -109,7 +109,7 @@ Huh, this actually looked promising. I went and made myself a cup of tea, came b
 Let me explain: at iteration 9 we got a better attacker. That's great and all, but in all subsequent iterations the same attacker plays against the same defenders (and remember: the matches will play **always** exactly the same way) but its Elo changes. And sure, it's increasing, but here's the problem: its Elo is increasing but it's still the same agent, playing the same matches.
 This is because the **other** attackers are sometimes better, sometimes worse than the defenders and when they play against the latter, they change their Elo. Now, when we compute the Elo for every agent, we end up having different results, even for the elite agent!
 
-Then, it's safe to say that Elo is not, at least in this case, a good enough indicator for fitness. I honestly have no idea why it works so well for other RL projects (see: [AlphaZero](https://arxiv.org/abs/1712.01815) & Co.).
+Then, it's safe to say that Elo is not, at least in this case, a good enough indicator of fitness. I honestly have no idea why it works so well for other RL projects (see: [AlphaZero](https://arxiv.org/abs/1712.01815) & Co.).
 
 At this point, the only sane thing to do was to... Go back to the code and implement a different fitness function to evaluate the population with.
 
@@ -202,3 +202,6 @@ From these experiment, I now know what are the most advantageous settings to use
 Obviously, it'd be great to run future tests with a larger population and for more iterations (*Google plz* 🥺), mainly because I assume it would be possible to find better agents rather quickly.
 
 All in all, what a weekend.
+
+
+[Thesis rambles](https://gallorob.github.io/thesis-rambles)
