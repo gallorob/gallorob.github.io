@@ -72,7 +72,7 @@ For `python-lsp-server`, you can have continuous hinting enabled: go to `Setting
 Now you're done!
 
 <p align="center">
-    <img src="_posts/../../media/jlab/screen.png" alt="fitnesses" height="500"/>
+    <img src="https://raw.githubusercontent.com/gallorob/gallorob.github.io/main/media/jlab/screen.png?raw=True" alt="final result" height="500"/>
 </p>
 
 ## But I like scripts too!
