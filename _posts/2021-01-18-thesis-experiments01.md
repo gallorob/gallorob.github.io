@@ -202,6 +202,3 @@ From these experiment, I now know what are the most advantageous settings to use
 Obviously, it'd be great to run future tests with a larger population and for more iterations (*Google plz* 🥺), mainly because I assume it would be possible to find better agents rather quickly.
 
 All in all, what a weekend.
-
-
-[Thesis rambles](https://gallorob.github.io/thesis-rambles)

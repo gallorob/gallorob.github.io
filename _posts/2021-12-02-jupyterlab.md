@@ -71,9 +71,7 @@ For `python-lsp-server`, you can have continuous hinting enabled: go to `Setting
 
 Now you're done!
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/gallorob/gallorob.github.io/main/media/jlab/screen.png?raw=True" alt="final result" height="500"/>
-</p>
+{% include static_image.html image="posts/jlab/screen.png" alt="final result" %}
 
 ## But I like scripts too!
 
@@ -103,6 +101,3 @@ Fair enough, then you may be interested in [Jupyter Lab Desktop](https://github.
 Sure, not everyone will like notebooks. Just like not everyone will like scripts.
 
 If you don't like them both, well... Check [OpenCodeBlocks](https://github.com/MathisFederico/OpenCodeBlocks) out? Dunno, looks interesting to me.
-
-
-[Home](https://gallorob.github.io/)

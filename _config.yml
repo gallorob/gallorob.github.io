@@ -1,6 +1,13 @@
-theme: jekyll-theme-midnight
-title: gallorob projects' blog
-description: A blog where I blab about projects & stuff
+# Build settings
+
+port: 4000
+markdown:  kramdown
+permalink: /:title
+plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+
+title: gallorob blog
+description: A blog where I blab about projects, research/work, and hobbies.
 twitter_username: gallorob2
 github_username:  gallorob
 permalink: /:year/:month/:day/:title/
+authhor: gallorob
