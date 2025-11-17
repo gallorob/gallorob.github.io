@@ -1,5 +1,4 @@
 ---
-theme: jekyll-theme-midnight
 layout: default
 title:  Summary of the first batch of experiments
 ---

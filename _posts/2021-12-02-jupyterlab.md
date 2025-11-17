@@ -1,5 +1,4 @@
 ---
-theme: jekyll-theme-midnight
 layout: default
 title:  A weirdly succint guide to JupyterLab
 ---
