@@ -6,7 +6,7 @@ title: LLMaker
 {% include image.html url="https://github.com/gallorob/llmaker" image="projects/llmaker/llmaker_gui.png" %}
 
 ## tl;dr:
-LLMaker is a mixed-initiative tool that lets users design video game levels for [Dungeon Despair](https://github.com/gallorob/dungeon-despair) using large langauge models to parse edit commands and stable diffusion models to generate graphical assets.
+LLMaker is a mixed-initiative tool that lets users design video game levels for [Dungeon Despair](https://github.com/gallorob/dungeon-despair) using large language models to parse edit commands and stable diffusion models to generate graphical assets.
 
 ## LLMaking the LLMaker
 
@@ -34,17 +34,17 @@ When I started working on this project, the choice of LLM was quite simple: eith
 
 However, while the model worked great, I was not a huge fan of the whole "scrape the whole internet to train our models" debacle. So much so that I wrote one section about it in the [LLMs and Games survey paper](https://ieeexplore.ieee.org/abstract/document/10680313), along with other ethical, political, and socio-ecological concerns the community had about training such large models.
 
-So, after some time, I developed *FREYR*.
+So, after some time, I developed **FREYR**.
 
-FREYR (a "*F*ramework for *R*ecognizing and *E*xecuting *Y*our *R*equests") is a simple framework preceding agentic LLM systems. When the user sends a message, a first LLM maps it to a sequence of intents. These intents are all possible actions that the system can make, and the option for chatting. Each intent is then processed by a different LLM that generates the parameters for the tool associated with the intent. Once all intents are processed and the level has been edited, a final LLM summarizes all changes to the level back to the user. If the user just wants to chat, another LLM simply generates the response.
+FREYR (a "**F**ramework for **R**ecognizing and **E**xecuting **Y**our **R**equests") is a simple framework preceding agentic LLM systems. When the user sends a message, a first LLM maps it to a sequence of intents. These intents are all possible actions that the system can make, and the option for chatting. Each intent is then processed by a different LLM that generates the parameters for the tool associated with the intent. Once all intents are processed and the level has been edited, a final LLM summarizes all changes to the level back to the user. If the user just wants to chat, another LLM simply generates the response.
 
-The nice thing about this approach is that **any** LLM can play any role in the pipeline. This is particularly important since FREYR needs to update the game level via tool execution, which not all models support. Additionally, this allow for play on specific LLMs strengths: chatty LLMs fit great in the summary or conversation role, whereas more technical yet creative LLMs can work as tool operators.
+The nice thing about this approach is that *any* LLM can play any role in the pipeline. This is particularly important since FREYR needs to update the game level via tool execution, which not all models support. Additionally, this allows designers to play on specific LLMs strengths: chatty LLMs fit great in the summary or conversation role, whereas more technical yet creative LLMs can work as tool operators.
 
 In the end, I was using Gemma 2 9B for both intent detection and parameters generation, and Qwen 2.5 1.5B for summarization and conversation roles. These small-ish models could easily fit even on a consumer-level GPU, with total inference times (i.e.: time between the user sending a message and the user receiving a response) hovering around 3s to 6s, depending on the complexity of the request. The largest time bottlneck was still, however, the generation of graphics.
 
 One shortcoming of FREYR was that the whole sequence breaks down horribly if the intents detected are wrong. While the tool execution was validated and reissued if there were problems (e.g.: missing parameters, invalid values, etc...), there was no control on the correctness of the intents detected. This problem is still present and could be resolved by having the LLM self-evaluate its detected intents, which would however increase inference times.
 
-However, FREYR allowed me to *not* spend money on the OpenAI's API, to have LLMaker be runnable fully locally (I developed a simple [Flask server API](https://github.com/gallorob/llmaker-server) for self-hosting all the models needed), and much, **much** more control for the final user.
+However, FREYR allowed me to *not* spend money on the OpenAI's API, to have LLMaker run fully locally (I developed a simple [Flask server API](https://github.com/gallorob/llmaker-server) for self-hosting all the models needed), and much, **much** more control for the final user.
 
 ## But we can go smaller still
 
@@ -52,7 +52,7 @@ You know what's better than 9B models?
 
 Well, in terms of size, 1B models.
 
-In terms of accuracy, **probably** >9B models.
+In terms of accuracy, *probably* >9B models.
 
 As I wrote above, one major limitation of the whole FREYR approach was that misidentifying designer intents had a cascade effect on the rest of the pipeline. I was reminded of what my professor at La Sapienza once said: "If your NLP model is 99% accurate, people will notice the 1% it fails."
 
