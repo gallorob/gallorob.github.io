@@ -10,9 +10,9 @@ LLMaker is a mixed-initiative tool that lets users design video game levels for 
 
 ## LLMaking the LLMaker
 
-LLMaker is my ongoing project for my PhD thesis focusing on the impact of using LLMs in mixed-initiative co-creation. It's written in Python with PyQt6 for the GUI elements. Its releases can be installed on Windows, MacOS, and Debian-based Linux distros.
+LLMaker is my ongoing project for my PhD thesis focusing on the impact of using LLMs in mixed-initiative co-creation. It's written in Python with `PyQt6` for the GUI elements. Its releases can be installed on Windows, MacOS, and Debian-based Linux distros.
 
-I started developing the application at the beginning of my PhD. LLMaker assists designers to create levels for the videogame [Dungeon Despair](https://github.com/gallorob/dungeon-despair), which I built alongside the application itself. The game is a reverse dungeon crawler inspired by Darkest Dungeon and built with pygame. The domain of Dungeon Despair is shared between the tool and the game itself, and is essentially a collection of PyDantic game objects and Python methods to manipulate them. These functions all have the `@AILibFunction` decorator from [`gptfunctionutil`](https://pypi.org/project/gptfunctionutil/) to be easily integrated in a tool calling pipeline.
+I started developing the application at the beginning of my PhD. LLMaker assists designers to create levels for the videogame [Dungeon Despair](https://github.com/gallorob/dungeon-despair), which I built alongside the application itself. The game is a reverse dungeon crawler inspired by Darkest Dungeon and built with `pygame`. The domain of Dungeon Despair is shared between the tool and the game itself, and is essentially a collection of `PyDantic` game objects and Python methods to manipulate them. These functions all have the `@AILibFunction` decorator from [`gptfunctionutil`](https://pypi.org/project/gptfunctionutil/) to be easily integrated in a tool calling pipeline.
 
 In LLMaker, users are free to request edits to be made to the level (within domain constraints) or just ask questions about the level and converse with the LLM. The interface has a level minimap, an encounter preview, and a chat area.
 
