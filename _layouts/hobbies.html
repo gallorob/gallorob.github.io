@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<section>
+  <div class="project-container">
+    {% for hobby in site.data.settings.hobbies %}
+      <a href="{{ site.github.url }}/hobbies/{{ hobby.url }}">
+        <div class="project-unit" data-folder="{{ site.github.url }}/hobbies/{{ hobby.url }}"  style="background-image: url({{ site.github.url }}/assets/img/hobbies/{{ hobby.url }}/thumbnail.png)">
+          <div class="project-overlay">
+            <strong>{{ hobby.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>

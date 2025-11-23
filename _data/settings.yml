@@ -4,6 +4,7 @@
 menu:
 - {name: 'Projects', url: ''}
 - {name: 'Blog',     url: 'blog'}
+- {name: 'Hobbies',  url: 'hobbies'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
@@ -13,6 +14,13 @@ menu:
 projects:
 - {name: 'LLMaker',   url: 'llmaker', year: 2024}
 - {name: 'PCGSEPy',   url: 'pcgsepy', year: 2022}
+
+#-------------------------------
+# Hobbies Section
+
+hobbies:
+- {name: 'Wizardry',    url: 'wizardry'}
+- {name: 'Writing',     url: 'writing'}
 
 #-------------------------------
 # Contact Section
