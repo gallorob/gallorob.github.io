@@ -65,9 +65,11 @@ Keeping it short, I have been scouring magazins over Internet Archive in search 
 
 And also color correcting a good amount of them.
 
-I am still in the middle of sorting everything properly, but I do have enough material to upload on Internet Archive and have a separate page [here](this-page-does-not-exist-yet) with a comprehensive table for each chapter. I also plan to translate them in English so that everybody can read them and appreciate them.
+I am still in the middle of sorting everything properly, but I do have enough material to upload on Internet Archive and will have a [separate page here](this-page-does-not-exist-yet) with a comprehensive table for each chapter. I also plan to translate them in English so that everybody can read them and appreciate them.
 
 So please look forward to it.
+
+Aside from these older mangas, there are currently two mangas being released under the Wizardry IP: "Blade & Bastard" (based on the light novel with the same name), and "Wizardry Variants Daphne ～名もなき最後の冒険～", set in the Wizardry Variants Daphne game world. There is also a manga based on Matsuyama's "Ash and Youth" novel, but all references to Wizardry have been removed due to copyright.
 
 ### The novels
 
@@ -76,6 +78,8 @@ There were quite a few novels published under license. There are the official Fu
 I have, so far, fully translated the first Benni Matsuyama novel, and released it online on [this archive](https://archive.org/details/ash_and_youth_side_by_side), along with the original serialization scans stitched together in a single .cbz from the Famicom Isshobun magazine.
 
 I am currently translating the second Matusyama's novel, but it's so much more work than expected given its page count. But it will be done, sooner or later, and I will upload that as well.
+
+Currently, Kumo Kagyu (the author of "Goblin Slayer") is writing the "Blade & Bastard" series of light novels. While a bit on the nose sometimes (especially the characters name, like "Iarumas" being a "Samurai"), the stories are really enjoyable and include a lot of references to the original games. There is also the manga based on the light novel being released currently, and an anime adaptation is planned.
 
 ## Resourceful Resources
 
@@ -87,3 +91,19 @@ I realize I may not be the best person to explain everything about Wizardry. Tha
 * [r/wizardry](https://www.reddit.com/r/wizardry/)
 * [Snafaru's page](https://www.zimlab.com/wizardry/)
 * [Monster cards from all games](https://emonoya.net/goods/card/card_fc1.html)
+
+## ⚠ Piracy Disclaimer ⚠
+
+To be perfectly honest, fan translations and scans of (formerly) copyrighted material is a gray, murky legal area.
+
+Of course, I will not post anywhere any of the currently releasing novels ("Blade & Bastard") or mangas ("Blade & Bastard", " Wizardry Variants Daphne ～名もなき最後の冒険～", and the manga based on the "Ash and Youth" novel).
+
+What does this mean for the other mangas and novel translations? It means that there *shouldn't* be a problem posting them online. Again, as far as I can tell, I am not dealing with material under active copyright. Some of the comics where one-shots appearing in now defunct magazines. Longer serializations were released under ASCII Comics, and often rebundled into a single book.
+
+If I am mistaken though, I will gladly remove the material I have posted.
+
+Though I hope that, unlike what I've seen happening in the past, this would not mean that these amazing products of the creative minds of their writers would be lost forever.
+
+My goal with all of this is to save these artifacts from being forgotten, and making them as accessible as possible. Just as in many other niche groups, there are people who are passionate about content that compliments the main product.
+
+I am one of these people, I guess.
