@@ -13,7 +13,7 @@ PCGSEPy is a Python library to visualize and evolve (via grammar evolution) spac
 
 What **is** a spaceship?
 
-In Space Engineers, luckily for me (and my research), it's a bunch of voxels (i.e.: cubix pixel) welded together with hopes and dreams. Each voxel has its own unique ID, and some additional properties like position, orientation, and color.
+In Space Engineers, luckily for me (and my research), it's a bunch of voxels (i.e.: cubic pixel) welded together with hopes and dreams. Each voxel has its own unique ID, and some additional properties like position, orientation, and color.
 
 Before fancy techniques like stable diffusion were a thing, creating structures made of voxels (or pixels, for that matter) with **some** level of controlability involved neural networks or other custom networks that, given for example a coordinate in space, woul tell you whether there was supposed to be a voxel (and which kind), or remain empty.
 
@@ -35,11 +35,11 @@ What to do once all rules are defined? Make a spaceship, of course!
 
 **But based on what?**
 
-The goal of this project was to build something that users may like, so we scraped a **good amount** of spaceships built by users and uploaded on the Steam Workshop (with permission from GoodAI, the sister company of Keen Software, the developers of Space Engineers) that used the base-game blocks (no DLCs here). After anlyzing these spaceships for main characteristics, we found three main metrics we could optimize for: symmetry, spaceship length along the main axis, and volume. And by "optimize", I mean getting close to the average value of each of the metrics for human-authored spaceships.
+The goal of this project was to build something that users may like, so we scraped a **good amount** of spaceships built by users and uploaded on the Steam Workshop (with permission from GoodAI, the sister company of Keen Software, the developers of Space Engineers) that used the base-game blocks (no DLCs here). After analyzing these spaceships for main characteristics, we found three main metrics we could optimize for: symmetry, spaceship length along the main axis, and volume. And by "optimize", I mean getting close to the average value of each of the metrics for human-authored spaceships.
 
 Once we had metrics to optimize, it was easy to evolve spaceships by mutating the parameters of **some** of the atoms.
 
-Starting from a colelction of valid, simple spaceships, each spaceship was ranked on its fitness (aggregation of metrics), selected via fitness-proportional roulete-wheel selection, mutated the offsprings, and parents were kept as elites. Iterate over 200 or so generations, and you get... Space noodles.
+Starting from a collection of valid, simple spaceships, each spaceship was ranked on its fitness (aggregation of metrics), selected via fitness-proportional roulette-wheel selection, mutated the offsprings, and parents were kept as elites. Iterate over 200 or so generations, and you get... Space noodles.
 
 But they're good looking space noodles.
 
