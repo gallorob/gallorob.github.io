@@ -12,6 +12,7 @@ menu:
 # Projects Section
 
 projects:
+- {name: 'Prompt Override',   url: 'prompt-override', year: 2025}
 - {name: 'LLMaker',   url: 'llmaker', year: 2024}
 - {name: 'PCGSEPy',   url: 'pcgsepy', year: 2022}
 
@@ -29,7 +30,7 @@ social:
 - {icon: 'twitter',   link: 'https://twitter.com/gallorob2'}
 - {icon: 'github',    link: 'https://github.com/gallorob'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/roberto-g-9653a018a/'}
-- {icon: 'envelope',  link: 'mailto:mailto:placeholder@gmail.com'}
+# - {icon: 'envelope',  link: 'mailto:mailto:placeholder@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
