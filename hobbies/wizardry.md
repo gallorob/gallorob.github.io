@@ -27,7 +27,7 @@ There have been multiple physical games with the Wizardry brand that were not vi
 
 The Wizardry RPG is a Dungeons & Dragons-like roleplaying board game. After the first edition, there have been two editions that changed some of the rules and rebalanced some of the tables: True Wizardry RPG, and Advanced Wizardry RPG.
 
-The game is played as any DnD TTRPG, with a Game Master and a party of players. There are multiple scenarios players can choose for their adventure. In the started box (which I own), there is the "Proving grounds of the mad overlord" scenario (adapted from the first game), "Sponsor is Boltac" (スポンサーはボルタック), and "Bride of the Black Crystal" (黒き水晶の花嫁). A "Trebor's Campaign" box was also released. Finally, three larger scenarios were available: "The Shield of Daros" (ダロスの盾), "Seeking the Gnome's Gold" (ノームの黄金を求め), and "The Scarlet Gale of Gazal-Boda" (ガザル＝ボダの紅い疾風).
+The game is played as any DnD TTRPG, with a Game Master and a party of players. There are multiple scenarios players can choose for their adventure. In the starter box (which I own), there is the "Proving grounds of the mad overlord" scenario (adapted from the first game), "Sponsor is Boltac" (スポンサーはボルタック), and "Bride of the Black Crystal" (黒き水晶の花嫁). A "Trebor's Campaign" box was also released. Finally, three larger scenarios were available: "The Shield of Daros" (ダロスの盾), "Seeking the Gnome's Gold" (ノームの黄金を求め), and "The Scarlet Gale of Gazal-Boda" (ガザル＝ボダの紅い疾風).
 
 The English titles above are *my* translation, as the whole game was only sold in Japan.
 
