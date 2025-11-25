@@ -23,63 +23,17 @@ On the other hand, I have been playing (couple of years or so, by now) "Wizardry
 
 There have been multiple physical games with the Wizardry brand that were not videogames. While I own the first edition of the TTRPG, there are other games I know about but either no one is selling them, or they are asking for *way, waaaaay too much*. Still, I think it's relevant to have them here.
 
-### Wizardry RPG
-
-The Wizardry RPG is a Dungeons & Dragons-like roleplaying board game. After the first edition, there have been two editions that changed some of the rules and rebalanced some of the tables: True Wizardry RPG, and Advanced Wizardry RPG.
-
-The game is played as any DnD TTRPG, with a Game Master and a party of players. There are multiple scenarios players can choose for their adventure. In the starter box (which I own), there is the "Proving grounds of the mad overlord" scenario (adapted from the first game), "Sponsor is Boltac" (スポンサーはボルタック), and "Bride of the Black Crystal" (黒き水晶の花嫁). A "Trebor's Campaign" box was also released. Finally, three larger scenarios were available: "The Shield of Daros" (ダロスの盾), "Seeking the Gnome's Gold" (ノームの黄金を求め), and "The Scarlet Gale of Gazal-Boda" (ガザル＝ボダの紅い疾風).
-
-The English titles above are *my* translation, as the whole game was only sold in Japan.
-
-While the game has **never** been translated from Japanese, just this year (2025) both I and [Akudai Teapot](https://www.reddit.com/user/Akudoi-Teapot/) independently happened to post our translation on Reddit. Given the much higher quality of their translations, I decided to focus instead on the mangas/novels translations and keep looking for material.
-
-You can find the scans and my rough translation of the material I collected on this [archive](https://archive.org/details/wizardry-rpg-resources/), and Akudai's translations on this [archive](https://archive.org/details/wizardry-rpg/).
-
-### [Tiltowait](https://boardgamegeek.com/boardgame/8776/wizardry-tiltowait-card-game)
-
-Tiltowait (which is the name of the most devastating spell in the Wizardry games) is a Uno-like game with a Wizardry flair. Instead of numbers and colors, you have monsters of different types. Instead of special cards, you have spell cards.
-
-But aside from that, it plays the same as Uno (kinda). That honestly does not justify the >400EUR asking price I've seen floating around. Though the cards have illustrations by Jun Suemi, which I find very appealing.
-
-Which is why I have been working on making my own printable set of hi-res (AI upscaled) cards. This is still an ongoing project and I will share them over Internet Archive when I'm happy with the results.
-
-### [Wizball](https://boardgamegeek.com/boardgame/6312/wizardry-card-game-wiz-ball)
-
-Wizball is a fantasy sports game with baseball and magic. I unfortunately do not know enough about either to comment on it.
-
-I also have been unable to find a single seller so far, and it's honestly not something I find interesting.
+I collected what I know of these in [this page](../wizardry_pages/nonvideogames)
 
 ## The non-games
 
-It's mangas and novels, of course.
+It's music, mangas, and novels, of course.
 
 Do Jun Suemi's illustrations books fall in either category? Probably both. I am waiting for a decent price drop before getting the latest reprint (2025).
 
-### The mangas
-
-I could spend quite a few paragraphs here talking about all the different mangas that have been published over the years, whether they were serialized in a magazine, who the writers were, etc...
-
-So I **won't** do that here.
-
-Keeping it short, I have been scouring magazins over Internet Archive in search of mangas chapters and have been keeping track of each, saving copies locally and building .cbz archives.
-
-And also color correcting a good amount of them.
-
-I am still in the middle of sorting everything properly, but I do have enough material to upload on Internet Archive and will have a [separate page here](this-page-does-not-exist-yet) with a comprehensive table for each chapter. I also plan to translate them in English so that everybody can read them and appreciate them.
-
-So please look forward to it.
-
-Aside from these older mangas, there are currently two mangas being released under the Wizardry IP: "Blade & Bastard" (based on the light novel with the same name), and "Wizardry Variants Daphne ～名もなき最後の冒険～", set in the Wizardry Variants Daphne game world. There is also a manga based on Matsuyama's "Ash and Youth" novel, but all references to Wizardry have been removed due to copyright.
-
-### The novels
-
-There were quite a few novels published under license. There are the official Futabasha Fantasy five novels based on the video games ("Proving grounds of the mad overlord", "The story of Alavik and Magda", "Knight of Diamonds", "Legacy of Llylgamyn", and "Heart of the Maelstrom", by different authors) which I do not own (yet), the Benni Matsuyama novels ("Ash and Youth: Side by side" and "Oh Wind! Have you reached the dragon yet?"), which I own the digital copies of, and some more novels such as "The return of Werdna" (which I own the digital pre-publish copy as it was an extra for a magazine).
-
-I have, so far, fully translated the first Benni Matsuyama novel, and released it online on [this archive](https://archive.org/details/ash_and_youth_side_by_side), along with the original serialization scans stitched together in a single .cbz from the Famicom Isshobun magazine.
-
-I am currently translating the second Matusyama's novel, but it's so much more work than expected given its page count. But it will be done, sooner or later, and I will upload that as well.
-
-Currently, Kumo Kagyu (the author of "Goblin Slayer") is writing the "Blade & Bastard" series of light novels. While a bit on the nose sometimes (especially the characters name, like "Iarumas" being a "Samurai"), the stories are really enjoyable and include a lot of references to the original games. There is also the manga based on the light novel being released currently, and an anime adaptation is planned.
+* [The music](../wizardry_pages/music)
+* [The mangas](../wizardry_pages/mangas)
+* [The novels](../wizardry_pages/novels)
 
 ## Resourceful Resources
 
@@ -92,7 +46,7 @@ I realize I may not be the best person to explain everything about Wizardry. Tha
 * [Snafaru's page](https://www.zimlab.com/wizardry/)
 * [Monster cards from all games](https://emonoya.net/goods/card/card_fc1.html)
 
-## ⚠ Piracy Disclaimer ⚠
+#### ⚠ Piracy Disclaimer ⚠
 
 To be perfectly honest, fan translations and scans of (formerly) copyrighted material is a gray, murky legal area.
 
