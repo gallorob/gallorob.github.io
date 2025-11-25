@@ -67,7 +67,7 @@ There are obviously limitations to what is actually achievable: the file system 
 
 Oh, right, the illegal operations.
 
-If NeuralSys fails to run an update, or if it deems the updated prompt snippet to clash against its rules, it will log an error message and rever the prompt snippets to their previous state. Get enough errors, and it's game over, buddy! KARMA will be disappointed in you, and you will be forcefully logged out of the system. A fitting game over, in my opinion.
+If NeuralSys fails to run an update, or if it deems the updated prompt snippet to clash against its rules, it will log an error message and revert the prompt snippets to their previous state. Get enough errors, and it's game over, buddy! KARMA will be disappointed in you, and you will be forcefully logged out of the system. A fitting game over, in my opinion.
 
 And that is also why it was so important that NeuralSys was a "smart" LLM: it had to decide whether the player actions were good enough to "trick" the system. And it had to do so consistently.
 
