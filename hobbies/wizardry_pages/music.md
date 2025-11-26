@@ -85,7 +85,71 @@ Aran: Damn it! No matter what, I will get my hands on that legendary sword... Ha
 
 ### 02: Fortress City
 
-*Transcription being written...*
+*(Tavern noise)*
+
+Alan: I know that the person hiding the legendary sword of the Knight of Diamonds is someone with the skill for a critical hit. If it's not the ninja, then the only one left to consider is the High Master rumored to be lurking in the lowest level. We must hire adventurers to go down to the lowest level, no matter what.
+
+Maria: Hey, Alan, aren't you being a little too hasty?
+
+Alan: Sister, have you forgotten? That day. The day Father and Mother were victims of those filthy demons, and the day he claimed the name Llylgamyn. I want to avenge them and reclaim Llylgamyn as the rightful heir to the throne as soon as possible.
+
+Maria: Alan, quiet. Someone's approaching.
+
+Alheim: May I join your table?
+
+Maria: Oh, yes, please do.
+
+Alan: A Priest, huh? Don't recognize your face.
+
+Alheim: It's been four years since I was last in Trebor's Castle. The vulgar behavior of the adventurers seems to be the same as ever.
+
+Maria: Sir Priest, what is your name?
+
+Alheim: I am called Alheim. My level has reached about Master status.
+
+Alan: Then, have you learned all the spells?
+
+Alheim: I haven't mastered Mabarlito, perhaps due to my low piety, but yes.
+
+Alan: Have you fought Werdna on the lowest level?
+
+Alheim: Well, you could call it the recklessness of youth. By the way, are you aware of a strange incident that happened nearby? Men and women of your generation have gone missing, or been brutally murdered. The rumor is that Davalpus, the Devil of Llylgamyn, is involved.
+
+Maria: What?
+
+Alan: Davalpus!
+
+Alheim: Three years ago, when Llylgamyn was taken over by that fiend, it was said that the young Prince and Princess of the Ten Children escaped, but now he is reportedly using his subordinate monsters to seriously search for those two disciples. You two should be careful as well.
+
+Maria: Alan...
+
+Alan: It's alright, Sister.
+
+Alheim: Oh, my apologies. I seem to have frightened the lady with my boring talk. Well then, I'll be going now.
+
+Alan: W-Wait!
+
+Alheim: Do you need something from me?
+
+Alan: Would you go with us to the lowest level?
+
+Alheim: To the lowest level?
+
+Maria: We dissolved our party a few days ago.
+
+Alheim: You intend to fight Werdna with such youth and inexperience? Don't attempt such a reckless thing.
+
+Alan: No, we're not interested in defeating Werdna. We are looking for the High Master who is rumored to be lurking in the lowest level.
+
+Alheim: The High Master.
+
+Maria: We will pay whatever reward you wish, Sir Priest.
+
+Alheim: I see, so there's a reason for this. Very well. My journey has no particular objective anyway. I shall accompany you.
+
+*(Footsteps)*
+
+*Continues from 2:53*
 
 ### 03: Basement 4th to 9th
 
