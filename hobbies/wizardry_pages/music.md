@@ -149,7 +149,99 @@ Alheim: I see, so there's a reason for this. Very well. My journey has no partic
 
 *(Footsteps)*
 
-*Continues from 2:53*
+Yuti: That sounds like an interesting story. If you don't mind, please let me join your party.
+
+Maria: And you are?
+
+Yuti: My name is Yuti.
+
+Alheim: A Lord, is it? That's unusual.
+
+Yuti: I've been in this town for quite a while, but my party members retired a little while ago. I had no choice but to go into the dungeon alone, and I just kept getting lost and lost. I've been lost for about a week now and couldn't find my way back to the surface.
+
+Alan: Why do you want to join our party?
+
+Yuti: Well, actually, my dream is to eventually be appointed as a knight in some country. Ah, a knight is so good! A splendid armor and a shining spear! And the women gazing at me with admiring eyes! Super popular! Puff-puff time!
+
+Alheim: It seems your motivation is quite impure. By the way, my alignment is Evil, and yours is Good.
+
+Yuti: I'm not the type to worry about that too much.
+
+Alheim: I don't stick to things either. I was Good myself once upon a time, you know.
+
+Alan: That settles it, then. Glad to have you, Alheim, Yuti. I'm Alan.
+
+Maria: I am Maria, Alan's older sister.
+
+Yuti: The pleasure is mine.
+
+Alheim: Likewise, again.
+
+*(Explosion, glass breaks, wood thuds)*
+
+Adventurer: What was that for!
+
+Weed: Because you went and searched my pocket without permission!
+
+Adventurer: You bastard!
+
+*(Sounds of fistfight)*
+
+Maria: Alan, are those...?
+
+Alan: Those are the guys we used to be in a party with!
+
+Yuti: That Samurai, he seems to be blind.
+
+Alheim: He's a Samurai. They read the opponent's presence that way. Even so, that Elf is quite a skilled fighter. It's like he has eyes in the back of his head, let alone being blind.
+
+Alan: Those contemptible guys! I can't just ignore this!
+
+Yuti: Right. Shall we help?
+
+Alan: You lot, have some shame!
+
+*(More sounds of battle, screams)*
+
+Adventurer: Uooh!
+
+Maria: Lazy Dispel, Lazy Dispel. That should do it.
+
+Weed: That was a relief. Thank you.
+
+Alan: Was our interference unnecessary, Master Samurai?
+
+Weed: No, a helping hand. I am indebted to you. My name is Weed. As I am currently undertaking a journey to train and broaden my horizons, I wished to challenge the legendary Wardna's Dungeon once, which is why I stopped in this area.
+
+Yuti: Then, why don't you come to the dungeon with us? Having a Samurai like you join the party would be incredibly reassuring! Right, Alan?
+
+Alan: Absolutely! Please, join us!
+
+Samurai: Hmm, perhaps being rescued by you is fate. Let us go to the dungeon together. We only need one more person to make six. We might just manage this. Do you have sufficient funds?
+
+Maria: Yes, we are fine.
+
+Samurai: Then, why don't we go to the Temple of Cant? We might find an unexpected hidden gem there.
+
+*(Organ music)*
+
+Weed: So this is the Temple of Cant.
+
+Cant Priest: Oh, is this your first time here, Master Samurai? All the bodies enshrined in this temple are those of adventurers who lost their lives fighting the monsters under Wardna's command in the dungeon.
+
+Weed: "Corpses don't generate Ki, after all. I'm not a big fan of places like this. We don't seem to have anyone who looks like they'd be useful here. With our current members, we'd ideally want one more Mage who can cast Makanito. Oh? The bereaved family of this Hobbit left a written message.
+
+Yuti: "Let's see... 'My heart is with Eastern magic. I promise a service commensurate with the cost of resurrection.' Is this true? Did a dead body write this?
+
+Cant Priest: Ah, that's Sams the Hobbit. He entrusted this note to me beforehand, asking me to 'please handle this if I am ever interred here'.
+
+Weed: "That level of preparedness alone is commendable, and his level is also significantly higher than the others. How about it? Should we choose him?"
+
+Alan: That will do. I ask that you proceed.
+
+Cant Priest : Understood.
+
+*Continues from 07:11*
 
 ### 03: Basement 4th to 9th (06:22)
 
