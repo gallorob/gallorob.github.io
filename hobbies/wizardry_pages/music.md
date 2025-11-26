@@ -11,13 +11,13 @@ Note that now all CDs are available, and some tracks are missing. However, it's 
 
 However, what Snafaru does not have (while I do) is the Wizardry CD Drama 1.
 
-Aside from the music, the CD tells the story of Aran and Maria, and their attempt to recover the sword Hansil and the Diamond Knight's equipment (the God Armor) to overthrow the demon Dabalpus.
+Aside from the music, the CD tells the story of Alan and Maria, and their attempt to recover the sword Hansil and the Diamond Knight's equipment (the God Armor) to overthrow the demon Davalpus.
 
 I quite enjoyed the voice acting in the drama, it reminded me a lot of the slightly exaggerated voice acting in the Wizardry OVA and the old Lodoss War anime series.
 
 With the power of machine learning, below is the English translation of each track.
 
-### 01: Monster Allocation Center
+### 01: Monster Allocation Center (04:08)
 
 *(Screams, roaring sounds)*
 
@@ -83,7 +83,7 @@ Aran: Damn it! No matter what, I will get my hands on that legendary sword... Ha
 
 *(Music starts)*
 
-### 02: Fortress City
+### 02: Fortress City (12:32)
 
 *(Tavern noise)*
 
@@ -151,8 +151,8 @@ Alheim: I see, so there's a reason for this. Very well. My journey has no partic
 
 *Continues from 2:53*
 
-### 03: Basement 4th to 9th
+### 03: Basement 4th to 9th (06:22)
 
-### 04: Labyrinth, The Bottom Floor
+### 04: Labyrinth, The Bottom Floor (17:08)
 
-### 05: Epilogue
+### 05: Epilogue (04:26)
