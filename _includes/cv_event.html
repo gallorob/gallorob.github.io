@@ -1,0 +1,9 @@
+<div class="cv-event">
+    <div class="cv-event__content">
+        <h3 class="cv-event__title">{{ include.title }} ({{ include.dates }})</h3>
+        <p class="cv-event__location">{{ include.location }}</p>
+        <div class="cv-event__description">
+            {{ include.description | markdownify }}
+        </div>
+    </div>
+</div>

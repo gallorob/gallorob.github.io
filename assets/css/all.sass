@@ -14,6 +14,35 @@ $headlineColor: #333
 $bgcolor: #e5eaee
 $documentBackgroundColor: #fff
 
+.cv-event
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    //padding: 10px 0;
+    //margin-bottom: 20px;
+
+    &__content
+        flex-grow: 1;
+        max-width: 75%;
+        //padding-right: 20px;
+
+    &__title
+        font-size: 1.2em;
+        font-weight: 700;
+        color: #333;
+        //margin: 0;
+
+    &__location
+        font-size: 1em;
+        font-weight: normal;
+        color: #555;
+        //margin: 5px 0 15px 0;
+
+    &__description
+        font-size: 0.95em;
+        line-height: 1.5;
+        color: #444;
+
 @import '1-tools/-tools-dir'
 @import '2-base/-base-dir'
 @import '3-sections/-sections-dir'

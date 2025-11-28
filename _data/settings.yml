@@ -6,6 +6,7 @@ menu:
 - {name: 'Blog',     url: 'blog'}
 - {name: 'Hobbies',  url: 'hobbies'}
 - {name: 'About',    url: 'about'}
+- {name: 'CV',       url: 'curriculumvitae'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
