@@ -1,3 +1,7 @@
 <div class="image-container">
-    <img src="{{ site.github.url }}/assets/img/{{ include.image }}" alt="{{ include.alt }}" class="image">
+    <img
+        src="{{ site.github.url }}/assets/img/{{ include.image }}"
+        alt="{{ include.alt }}"
+        style="width: {{ include.w | default: '512px' }}; display: block; margin: auto;"
+        class="image">
 </div>
