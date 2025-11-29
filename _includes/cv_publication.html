@@ -1,0 +1,10 @@
+<div class="cv-publication">
+    <div class="cv-publication__content">
+        <h3 class="cv-publication__title">{{ include.title  | markdownify }} ({{ include.date }})</h3>
+        <p class="cv-publication__authors">{{ include.authors | markdownify }}</p>
+        <p class="cv-publication__venue">{{ include.venue | markdownify }}</p>
+        <div class="cv-publication__description">
+            {{ include.description | markdownify }}
+        </div>
+    </div>
+</div>

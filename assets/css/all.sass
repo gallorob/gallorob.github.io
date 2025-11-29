@@ -36,6 +36,33 @@ $documentBackgroundColor: #fff
         font-size: 0.95em
         line-height: 1.5
 
+.cv-publication
+    display: flex
+    justify-content: space-between
+    align-items: flex-start
+
+    &__content
+        flex-grow: 1
+
+    &__title
+        font-size: 1.2em
+        font-weight: 700
+        color: $accent
+
+    &__authors
+        font-size: 1em
+        font-weight: normal
+        color: $accent-light
+
+    &__venue
+        font-size: 1em
+        font-weight: normal
+        color: $accent-light
+
+    &__description
+        font-size: 0.95em
+        line-height: 1.5
+
 @import '1-tools/-tools-dir'
 @import '2-base/-base-dir'
 @import '3-sections/-sections-dir'

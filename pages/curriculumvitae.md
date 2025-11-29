@@ -100,6 +100,154 @@ Kind of secondary school attended: Public school"
 
 # Publications
 
+{% include cv_publication.html
+title="Prompt Override: LLM Hacking as Serious Game"
+date="2025"
+authors="**Roberto Gallotta**, Antonios Liapis, Georgios N. Yannakakis"
+venue="Accepted at IEEE Conference on Games (CoG) 2025 (demo track)"
+description="This paper presents Prompt Override, a hacking-themed serious game that situates the player as a novice hacker that must collaborate with a rogue LLM to take down an LLM-operated infrastructure via prompt injections. By leveraging realworld limitations and vulnerabilities of LLMs, Prompt Override encourages players to develop a deeper understanding of prompt engineering, model behavior, and the ethical implications of interacting with intelligent systems."
+%}
+
+{% include cv_publication.html
+title="FREYR: A Framework for Recognizing and Executing Your Requests"
+date="2025"
+authors="**Roberto Gallotta**, Antonios Liapis, Georgios N. Yannakakis"
+venue="Available on [arXiv](https://arxiv.org/abs/2501.12423)"
+description="This paper introduces FREYR, a modular framework that enables large language models to use external tools more effectively without requiring model-specific prompting or fine-tuning. By decomposing the tool usage process into distinct steps, FREYR improves adaptability to new tools and reduces resource demands. Evaluated on real-world video game design tasks (LLMaker) and compared to traditional methods like the Ollama API, FREYR consistently outperforms existing approaches."
+%}
+
+{% include cv_publication.html
+title="The Importance of Context in Image Generation: A Case Study for Video Game Sprites"
+date="2025"
+authors="**Roberto Gallotta**, Antonios Liapis, Georgios N. Yannakakis"
+venue="Accepted at Artificial Intelligence in Music, Sound, Art and Design – 14th International Conference, EvoMUSART 2025"
+description="This paper explores the use of text-to-image generative models to create visually appealing, context-aware sprites for video games, addressing the challenge of repetitive visuals caused by sprite reuse. By introducing the concept of context---varying levels of detail in prompts---we demonstrate how sprite generation can adapt to different in-game environments. This approach, integrated into the LLMaker game design tool and applied to the game Dungeon Despair, is evaluated using both objective metrics and a user study. Results show that context-rich prompts enhance visual consistency and appeal, underscoring the potential for personalized content generation in games and beyond."
+%}
+
+{% include cv_publication.html
+title="The Procedural Content Generation Benchmark: An Open-source Testbed for Generative Challenges in Games"
+date="2025"
+authors="Ahmed Khalifa, **Roberto Gallotta**, Matthew Barthet, Antonios Liapis, Julian Togelius, Georgios N. Yannakakis"
+venue="Accepted at Foundation of Digital Games 2025"
+description="This paper introduces the Procedural Content Generation Benchmark (PCG Benchmark), a standardized framework for evaluating generative algorithms across 12 diverse game content creation tasks, including level and rule set generation. Each problem features unique content representations, control parameters, and evaluation metrics focused on quality, diversity, and controllability. Inspired by OpenAI Gym, the benchmark is designed to be easy to use and extend. We evaluate three baseline algorithms---random, evolutionary strategy, and genetic algorithm---revealing varying difficulty across problems and highlighting how combining quality, controllability, and diversity objectives can improve generative performance."
+%}
+
+{% include cv_publication.html
+title="Affectively Framework: Towards Human-like Affect-Based Agents"
+date="2024"
+authors="Matthew Barthet, **Roberto Gallotta**, Ahmed Khalifa, Antonios Liapis, Georgios N. Yannakakis"
+venue="Accepted at ACII 2024 (DUNGEONS, NEURONS, AND DIALOGUES: SOCIAL INTERACTION DYNAMICS IN CONTEXTUAL GAMES (DnD-SIDC) workshop)"
+description="This paper introduces the "Affectively Framework", a set of OpenAI Gym-compatible environments designed to incorporate human affect into the training of virtual agents. By integrating affective signals into the observation space, the framework enables exploration of the relationship between agent behavior and human emotional response. We present three game environments and validate the framework with baseline experiments using random and PPO agents, providing a foundation for future research in affect-aware reinforcement learning."
+%}
+
+{% include cv_publication.html
+title="Closing the Affective Loop via Experience-Driven Reinforcement Learning Designers"
+date="2024"
+authors="Matthew Barthet, Diogo Branco, **Roberto Gallotta**, Ahmed Khalifa, Georgios N. Yannakakis"
+venue="Accepted at ACII 2024"
+description="This paper introduces a novel reinforcement learning framework, Experience-Driven Reinforcement Learning (EDRL), for generating affect-tailored content, demonstrated in the context of racing games. EDRL receives a target arousal trace and generates racetracks that match the desired emotional experience for specific player types, using a reward function derived from a corpus of arousal data. Compared to a genetic algorithm-based approach, EDRL is more efficient and robust in producing affect-aware and personalised levels. While both methods face challenges with underrepresented affect patterns, the results suggest that continuous, affect-driven content generation is feasible and applicable beyond games to any domain requiring personalised affective adaptation."
+%}
+
+{% include cv_publication.html
+title="LLMaker: A Game Level Design Interface Using (Only) Natural Language"
+date="2024"
+authors="**Roberto Gallotta**, Antonios Liapis, Georgios N. Yannakakis"
+venue="Accepted at IEEE Conference on Games (CoG) 2024 (demo track)"
+description="This paper introduces a tool for game content co-creation based on natural language interactions between human designer and Large Language Models.
+
+Part of the AI4Media [LLMAKER](https://www.ai4europe.eu/research/ai-catalog/llmaker-consistent-game-content-creation-llms) project."
+%}
+
+{% include cv_publication.html
+title="Consistent Game Content Creation via Function Calling for Large Language Models"
+date="2024"
+authors="**Roberto Gallotta**, Antonios Liapis, Georgios N. Yannakakis"
+venue="Accepted at IEEE Conference on Games (CoG) 2024 (auxiliary track)"
+description="This paper compares different prompting techniques for Large Language Models on the task of content generation for videogames.
+
+Part of the AI4Media [LLMAKER](https://www.ai4europe.eu/research/ai-catalog/llmaker-consistent-game-content-creation-llms) project."
+%}
+
+{% include cv_publication.html
+title="Dynamic Quality-Diversity Search"
+date="2024"
+authors="**Roberto Gallotta**, Antonios Liapis, Georgios N. Yannakakis"
+venue="Accepted at Genetic and Evolutionary Computation Conference Companion (GECCO ’24 Companion)
+
+Preprint (extended) version available on [arXiv](https://arxiv.org/abs/2404.05769)"
+description="This paper presents a Dynamic Quality-Diversity (QD) method to handle changing environments, unlike traditional static QD tasks. It introduces a way to adapt existing benchmarks to dynamic scenarios and tests this approach on MAP-Elites and CMA-ME algorithms, showing their effectiveness in dynamic tasks."
+%}
+
+{% include cv_publication.html
+title="Dual-task effects of auditory discrimination task during walking and postural adjustments: A Mobile Brain/Body Imaging study in healthy individuals"
+date="2024"
+authors="Carlotta Maiocchi, Nicola Canessa, Leonardo Rassouli Baghi, **Roberto Gallotta**, Anna Wunderlich, Klaus Gramann, Bettina Wollesen, Claudia Gianelli"
+venue="Pending publication in the Proceedings of the Mobile Brain/Body Imaging Conference (MoBI 2024)"
+description="This paper investigates the effects of dual-tasks in a physical and cognitive demanding task of audio discrimination."
+%}
+
+{% include cv_publication.html
+title="Large Language Models and Games: A Survey and Roadmap"
+date="2024"
+authors="**Roberto Gallotta**, Graham Todd, Marvin Zammit, Sam Earle, Antonios Liapis, Julian Togelius, Georgios N. Yannakakis"
+venue="Accepted at IEEE Transaction on Games (ToG) journal"
+description="This paper surveys the applications, roles, and future potential of large language models (LLMs) in games, highlighting both their capabilities and limitations, and defining possible directions of future research."
+%}
+
+{% include cv_publication.html
+title="Preference-Learning Emitters for Mixed-Initiative Quality-Diversity Algorithms"
+date="2023"
+authors="**Roberto Gallotta**, Kai Arulkumaran, Lisa Soros"
+venue="Accepted at IEEE Transaction on Games (ToG) journal"
+description="This paper introduces a general framework for MAP-Elites emitters that can learn user preferences on-line. Performance is validated via a user study conducted with over 90 participants."
+%}
+
+{% include cv_publication.html
+title="Unsupervised Pose Estimation by Means of an Innovative Vision Transformer"
+date="2023"
+authors="Nicolò Brandizzi, Andrea Fanti, **Roberto Gallotta**, Samuele Russo, Luca Iocchi, Daniele Nardi, Christian Napoli"
+venue="Accepted at Artificial Intelligence and Soft Computing"
+description="This paper introduces Un-TraPEs, a vision transformer trained unsupervised on a human pose estimation task.
+
+Original work developed by Andrea Fanti and Roberto Gallotta for the EAI course during the MSc. at La Sapienza (Rome)."
+%}
+
+{% include cv_publication.html
+title="Surrogate Infeasible Fitness Acquirement FI-2Pop for Procedural Content Generation"
+date="2022"
+authors="**Roberto Gallotta**, Kai Arulkumaran, Lisa Soros"
+venue="Accepted at IEEE Conference on Games (CoG) 2022 (auxiliary track)"
+description="This paper introduces a variant for the FI-2Pop evolutionary algorithm, showing how additional knowledge of infeasible parents can lead to feasible offspring with higher fitness."
+%}
+
+{% include cv_publication.html
+title="Evolving Spaceships with a Hybrid L-system Constrained Optimisation Evolutionary Algorithm"
+date="2022"
+authors="**Roberto Gallotta**, Kai Arulkumaran, Lisa Soros"
+venue="Accepted at Genetic and Evolutionary Computation Conference Companion (GECCO '22 Companion)"
+description="This paper introduces a hybrid Evolutionary Algorithm for the generation of spaceships in Space Engineers, combining L-systems with FI-2Pop to optimize a fitness signal under constraints."
+%}
+
+{% include cv_publication.html
+title="Tafl-ES: Exploring Evolution Strategies for Asymmetrical Board Games"
+date="2021"
+authors="**Roberto Gallotta** and Roberto Capobianco"
+venue="Accepted at AIxIA 2021 – Advances in Artificial Intelligence"
+description="This paper presents an analysis of NeuroEvolution Strategies applied to the tabletop game Hnefatafl. We introduce a Hnefatafl environment and a system that is able to co-evolve two populations of players without showing stagnation. We also introduce a value network and a filter network to reduce computation load.
+
+Original work developed for the MSc. thesis at La Sapienza (Rome)."
+%}
+
+{% include cv_publication.html
+title="FEFFuL: a Few-Examples Fitness Function Learner"
+date="2021"
+authors="Nicolò Brandizzi, Andrea Fanti, **Roberto Gallotta**, and Christian Napoli"
+venue="Accepted at Conference: Scholar’s Yearly Symposium of Technology, Engineering and Mathematics"
+description="This paper introduces FEFFuL, an architecture used in Interactive Evolutionary Computation tasks that reduces user fatigue by learning user preferences.
+
+Original work developed by Andrea Fanti and Roberto Gallotta for the "Seminars in Artificial Intelligence" course during the MSc. at La Sapienza (Rome)."
+%}
+
 # Achievements
 
 # Teaching
