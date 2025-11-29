@@ -8,7 +8,7 @@ permalink: /curriculumvitae
 
 **Roberto Gallotta is currently employed as a Research Support Officer II at the [Institute of Digital Games](https://www.game.edu.mt/), University of Malta (Malta)**
 
-# Work Experience
+## Work Experience
 
 {% include cv_event.html
 title="Research Support Officer II"
@@ -51,7 +51,7 @@ description="**Main activities and responsibilities:** Training projects.
 **Acquired skills and achieved objectives:** Learned how to incorporate into projects: Maven, SpringBoot, JPA (Hibernate), JDBC (H2, OracleSQL), Rest services, WSDL's generated objects. Code functionality test with: JUnit test, IntegrationTest via SoapUI, code quality with Sonar."
 %}
 
-# Education
+## Education
 
 {% include cv_event.html
 title="Doctorate in Philosophy in Digital Games"
@@ -87,7 +87,7 @@ description="Kind of secondary school diploma: Italian secondary school diploma
 Kind of secondary school attended: Public school"
 %}
 
-# Information Technology Skills
+## Information Technology Skills
 
 **Office Automation**: **Office Suite**: (Highly Specialised), **Web Browser**: (Highly Specialised), **Word Processors**: MS Word (Highly Specialised), LaTeX (Advanced), **Spreadsheets**: (Advanced)
 
@@ -101,7 +101,30 @@ Kind of secondary school attended: Public school"
 
 **Graphics and Multimedia**: **WebGL** (Advanced), **GIMP/Photoshop** (Advanced), **Blender** (Intermediate)
 
-# Publications
+## Soft Skills
+
+* Autonomy: 8
+* Self confidence: 9
+* Flexibility/Adaptability: 8
+* Resistance to stress: 9
+* Ability to plan and organize: 9
+* Managing information: 8
+* Attention to details: 10
+* Learn continuously: 10
+* Achievement of objectives: 10
+* Initiative: 8
+* Communication: 10
+* Problem Solving: 10
+* Team work: 8
+* Leadership: 7
+
+## Foreign Language Skills
+
+**English**: B2 (Listening, Reading, Conversation, Writing)
+
+**French**: A1 (Listening, Reading, Conversation, Writing)
+
+## Publications
 
 {% include cv_publication.html
 title="Prompt Override: LLM Hacking as Serious Game"
@@ -251,7 +274,7 @@ description="This paper introduces FEFFuL, an architecture used in Interactive E
 Original work developed by Andrea Fanti and Roberto Gallotta for the 'Seminars in Artificial Intelligence' course during the MSc. at La Sapienza (Rome)."
 %}
 
-# Certificates
+## Certificates
 
 {% include cv_event.html
 title="TOEFL iBT"
@@ -267,7 +290,7 @@ dates="07/2014"
 description="Cambridge English"
 %}
 
-# Achievements
+## Achievements
 
 {% include cv_event.html
 title="AI And Games Summer School 2023 Game Jam"
@@ -311,7 +334,7 @@ dates="2015"
 description="RadioLab award for 'Radon&Scuola' contest organised by the Istituto Nazionale di Fisica Nucleare (INFN). High school project lead by [Prof. Paolo Maggioli]() with [Lorenzo Bracchi](https://www.linkedin.com/in/lorenzo-bracchi1), [Edoardo Cornalba](https://www.linkedin.com/in/edoardo-cornalba/), [Francesco Crottini](https://www.linkedin.com/in/francesco-crottini-137988334/), and [Jacopo Gianolli](https://www.linkedin.com/in/jacopogianolli/). Development of the website [RadonInformati](https://radoninformati.wordpress.com/)."
 %}
 
-# Teaching
+## Teaching
 
 {% include cv_event.html
 title="Creativity in the Age of Generative AI"
@@ -341,11 +364,144 @@ dates="07-03-2025"
 description="Seminar on applications artificial intelligence in video games. Presented work on large language models in video games."
 %}
 
-# Projects
+## Projects
 
-*Under construction*
+{% include cv_event.html
+title="WizTafl"
+location="Tool: Godot, C#"
+dates="2025 (ongoing)"
+description="Dungeon crawler game inspired by the Wizardry series where combats are resolved on a Hnefatafl board with different rulesets."
+%}
 
-# Workshops and Conferences
+{% include cv_event.html
+title="[Prompt Override](https://github.com/gallorob/prompt-override)"
+location="Tool: Python, Textual"
+dates="2025"
+description="Two-levels technical demo for the hacking-themed puzzle game Prompt Override. Developed using Python's Textual to play the game in the terminal emulator."
+%}
+
+{% include cv_event.html
+title="[LLMaker Server](https://github.com/gallorob/llmaker-server)"
+location="Tool: Python"
+dates="2025"
+description="API for LLMaker. Offers access to Ollama locally-hosted models and Stable Diffusion assets generation. OS agnostic, can be deployed on a local machine or on the cloud. Access to the API is controlled via whitelisting user."
+%}
+
+{% include cv_event.html
+title="[Dungeon Despair](https://github.com/gallorob/dungeon-despair)"
+location="Tool: Python, PyGame"
+dates="2024-2025"
+description="Reverse dungeon crawler video game with procedurally generated heroes via large language models.
+
+Part of the AI4Media project, developed as part for the PhD."
+%}
+
+{% include cv_event.html
+title="[LLMaker](https://github.com/gallorob/llmaker)"
+location="Tool: Python, PyQt"
+dates="2023-2025"
+description="A mixed-initiative co-creation video game level design tool using large language models.
+
+Part of the AI4Media project, developed as part for the PhD."
+%}
+
+{% include cv_event.html
+title="[Face2Face](https://github.com/GameAISchool2023members/The-Warrens)"
+location="Tool: Python"
+dates="2023"
+description="Python project developed for the 2023 AI And Games Summer School GameJam. Two players battle each other by matching an emotion. A visual emotion recognition machine learning model is employed.
+
+Team name: “The Warrens”; Members: Antonio Pio Ricciardi, Najada Kambo, Roberto Gallotta, Rupali Bhati, Sarra Graja, Wafa Aissa"
+%}
+
+{% include cv_event.html
+title="[AI Spaceship Generator](https://github.com/arayabrain/space-engineers-ai-spaceship-generator)"
+location="Tool: Python, Plotly"
+dates="2022"
+description="Python webapp project developed for the Araya/GoodAI project. Users can evolve spaceships for Space Engineers starting from a random population.
+
+GoodAI official fork available on [GitHub](https://github.com/GoodAI/space-engineers-ai-spaceship-generator)."
+%}
+
+{% include cv_event.html
+title="[Tafl Gym](https://github.com/gallorob/tafl-gym)"
+location="Tool: Python"
+dates="2021"
+description="Implementation of a Tafl Reinforcement Learning environment using OpenAI Gym.
+
+The project was developed for the master's thesis."
+%}
+
+{% include cv_event.html
+title="[GalloSearch](https://github.com/gallorob/gallosearch)"
+location="Tool: Python"
+dates="2021"
+description="Ideation and implementation of GalloSearch, a geometric search algorithm.
+
+The project was developed as the final project for the Planning & Reasoning course."
+%}
+
+{% include cv_event.html
+title="[FEFFuL](https://github.com/gallorob/fefful)"
+location="Tool: Python"
+dates="2021"
+description="Codebase for “FEFFuL: Few Examples Fitness Function Learner”, written with Andrea Fanti."
+%}
+
+{% include cv_event.html
+title="[LogBarrier Attack](https://github.com/gallorob/nn_logbarrier)"
+location="Tool: Python"
+dates="2021"
+description="Implementation in Tensorflow 2.0 of the LogBarrier Attack.
+
+The project was developed with Andrea Fanti as the final project for the Neural Networks course."
+%}
+
+{% include cv_event.html
+title="[Hotel Assistant](https://github.com/gallorob/shri-project)"
+location="Tool: Python"
+dates="2020"
+description="Python implementation of a hotel assistant. The project consists of receiving user audio input, using NLP techniques to process requests and returning an audio containing the response.
+
+The project was developed with Antonella Angrisani and Pietro Manganelli Conforti as the final project for the Social Human-Robot Interaction course."
+%}
+
+{% include cv_event.html
+title="[Compiler Classifier](https://github.com/gallorob/ml_homework-01)"
+location="Tool: Python"
+dates="2019"
+description="Implementation of different classifiers for assembly instructions (first homework of the ML course)."
+%}
+
+{% include cv_event.html
+title="[Hnefatafl AI](https://github.com/gallorob/Hnefatafl-AI)"
+location="Tool: C#, WPF"
+dates="2019"
+description="A C# implementation of Hnefatafl. Interactive GUI is provided via WPF (with the help of user Bardaky)."
+%}
+
+{% include cv_event.html
+title="[DOS Games Manager](https://github.com/gallorob/DOS_games_launcher)"
+location="Tool: C++, QT"
+dates="2019"
+description="C++ / Qt implementation of a graphical interface to manage DOS games using DOSBox."
+%}
+
+{% include cv_event.html
+title="[Damn Small Brandubh](https://github.com/gallorob/damn_small_brandubh)"
+location="Tool: C"
+dates="2019"
+description="Minimal C implementation of the Brandubh board game (a variant of Tafl)."
+%}
+
+{% include cv_event.html
+title="[Standalone CGM Predictor](https://github.com/gallorob/standalone-cgm-predictor)"
+location="Tool: Python, MATLAB"
+dates="2018"
+description="Predictor for blood glucose. Developed for the Bachelor's thesis. A re-implementation of the same codebase was used in [Therapy-driven Deep Glucose Forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0952197619302313)"
+%}
+
+## Workshops and Conferences
 
 {% include cv_event.html
 title="IEEE Conference on Games '25"
@@ -410,13 +566,13 @@ dates="19-23/07/2021"
 description="Attendant."
 %}
 
-# Societies
+## Societies
 
 **2023-ongoing**: Member of the International Society for Artificial Life (ISAL).
 
 **2022-ongoing**: Member of the Association for Computing Machinery (ACM) Genetic and Evolutionary Computation Special Interest Group (SIGEVO)
 
-# Studies and Experiences Abroad
+## Studies and Experiences Abroad
 
 {% include cv_event.html
 title="Artificial Intelligence and Games Summer School 2023"
@@ -439,7 +595,7 @@ dates="2013"
 description="B2+ level (Upper intermediate) in General English and English Conversation."
 %}
 
-# Extracurricular
+## Extracurricular
 
 {% include cv_event.html
 title="CyberChallenge.IT"
