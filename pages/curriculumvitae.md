@@ -209,7 +209,7 @@ authors="Nicolò Brandizzi, Andrea Fanti, **Roberto Gallotta**, Samuele Russo, L
 venue="Accepted at Artificial Intelligence and Soft Computing"
 description="This paper introduces Un-TraPEs, a vision transformer trained unsupervised on a human pose estimation task.
 
-Original work developed by Andrea Fanti and Roberto Gallotta for the EAI course during the MSc. at La Sapienza (Rome)."
+Original work developed by Andrea Fanti and Roberto Gallotta for the 'Elective in Artificial Intelligence' course during the MSc. at La Sapienza (Rome)."
 %}
 
 {% include cv_publication.html
@@ -245,7 +245,7 @@ authors="Nicolò Brandizzi, Andrea Fanti, **Roberto Gallotta**, and Christian Na
 venue="Accepted at Conference: Scholar’s Yearly Symposium of Technology, Engineering and Mathematics"
 description="This paper introduces FEFFuL, an architecture used in Interactive Evolutionary Computation tasks that reduces user fatigue by learning user preferences.
 
-Original work developed by Andrea Fanti and Roberto Gallotta for the "Seminars in Artificial Intelligence" course during the MSc. at La Sapienza (Rome)."
+Original work developed by Andrea Fanti and Roberto Gallotta for the 'Seminars in Artificial Intelligence' course during the MSc. at La Sapienza (Rome)."
 %}
 
 # Achievements
