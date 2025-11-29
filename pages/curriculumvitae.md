@@ -89,14 +89,17 @@ Kind of secondary school attended: Public school"
 
 # Information Technology Skills
 
-| Category | Skills and Proficiency Levels |
-| :--- | :--- |
-| **OFFICE AUTOMATION** | **Office Suite**: (Highly Specialised), **Spreadsheets**: (Advanced), **Web Browser**: (Highly Specialised), **Word Processors**: MS Word (Highly Specialised), LaTeX (Advanced) |
-| **APPLICATION SOFTWARE** | **CAD - Assisted Design**: (Foundation), **Godot**: (Intermediate) |
-| **COMPUTER PROGRAMMING** | **Programming languages**: Assembly (Intermediate), BASIC (Intermediate), C (Intermediate), C# (Advanced), C++ (Advanced), Haskell (Foundation), F# (Foundation), Java (Highly Specialised), MATLAB (Advanced), Prolog (Intermediate), Python (Highly Specialised), R (Advanced), Visual Basic - VB (Intermediate), **Web Programming**: (Intermediate) |
-| **SYSTEMS AND NETWORKS MANAGEMENT** | **Network architecture**: (Intermediate), **Operating systems**: (Advanced) |
-| **DATA MANAGEMENT** | **DBMS**: (Advanced), MySQL (Advanced), PostgreSQL (Intermediate), NoSQL (Intermediate) |
-| **GRAPHICS AND MULTIMEDIA** | **3D graphics**: Blender (Intermediate), **Web graphics**: WebGL (Advanced) |
+**Office Automation**: **Office Suite**: (Highly Specialised), **Web Browser**: (Highly Specialised), **Word Processors**: MS Word (Highly Specialised), LaTeX (Advanced), **Spreadsheets**: (Advanced)
+
+**Application Software**: **CAD** (Foundation), **Godot** (Intermediate)
+
+**Computer Programming**: **Java** (Highly Specialised), **Python** (Highly Specialised), **R** (Advanced), **MATLAB** (Advanced), **C++** (Advanced), **C#** (Advanced), **HTML/CSS**: (Intermediate), **C** (Intermediate), **Assembly** (Intermediate), **BASIC** (Intermediate), **Visual Basic** (Intermediate), **Prolog** (Intermediate), **Haskell** (Foundation), **F#** (Foundation)
+
+**Systems and Networks Management**: **Operating systems**: (Advanced), **Network architecture**: (Intermediate)
+
+**Data Management**: **MySQL** (Advanced), **PostgreSQL** (Intermediate), **NoSQL** (Foundation)
+
+**Graphics and Multimedia**: **WebGL** (Advanced), **GIMP/Photoshop** (Advanced), **Blender** (Intermediate)
 
 # Publications
 
@@ -248,16 +251,199 @@ description="This paper introduces FEFFuL, an architecture used in Interactive E
 Original work developed by Andrea Fanti and Roberto Gallotta for the 'Seminars in Artificial Intelligence' course during the MSc. at La Sapienza (Rome)."
 %}
 
+# Certificates
+
+{% include cv_event.html
+title="TOEFL iBT"
+location="106/120"
+dates="20/2023"
+description="ETS"
+%}
+
+{% include cv_event.html
+title="Cambridge First"
+location="Europass level B2"
+dates="07/2014"
+description="Cambridge English"
+%}
+
 # Achievements
+
+{% include cv_event.html
+title="AI And Games Summer School 2023 Game Jam"
+location="Grading in list: 1"
+dates="30/06/2023"
+description="Award for the Game Jam project 'Face2Face' by *The Warrens* (group with [Antonio Pio Ricciardi](https://www.linkedin.com/in/antoniopioricciardi/), [Sarra Graja](https://www.linkedin.com/in/sarra-graja-44346179/), [Rupali Bhati](https://www.linkedin.com/in/rupalibhati/), [Wafa Aissa](https://www.linkedin.com/in/wafa-aissa/), and [Najada Kambo](https://www.linkedin.com/in/najada/))."
+%}
+
+{% include cv_event.html
+title="TechQuartier Impact Challenge 2021"
+location="Grading in list: 2"
+dates="2021"
+description="*Greentalians* project 'UnWaste!' assists waste management structures with state-of-the-art ML predictive algorithms and data analytics to reduce garbage pollution in cities and increase recycling rates."
+%}
+
+{% include cv_event.html
+title="ALIFE2021 Students Essay Competition"
+location="Grading in list: 2"
+dates="2021"
+description="Submitted a student essay on the importance of environments in ALIFE applications and the need to be modeled as dynamic objects that react to agents' actions."
+%}
+
+{% include cv_event.html
+title="Create YOUR Future"
+location="Grading in list: 3"
+dates="2018"
+description="Award for the contest 'Create YOUR Future', hosted by [HiFuture](https://www.linkedin.com/company/hifuture-s-r-l-/), for the development of a Python algorithm."
+%}
+
+{% include cv_event.html
+title="'Nei panni di un altro...'"
+location="Grading in list: 2"
+dates="2017"
+description="Literary contest 'Nei panni di un altro...' hosted by the newspaper Inchiostro (Pavia)."
+%}
+
+{% include cv_event.html
+title="Radon&Scuola"
+location="Grading in list: 1"
+dates="2015"
+description="RadioLab award for 'Radon&Scuola' contest organised by the Istituto Nazionale di Fisica Nucleare (INFN). High school project lead by [Prof. Paolo Maggioli]() with [Lorenzo Bracchi](), [Edoardo Cornalba](), [Francesco Crottini](), and [Jacopo Gianolli](). Development of the website [RadonInformati](https://radoninformati.wordpress.com/)."
+%}
 
 # Teaching
 
+{% include cv_event.html
+title="Creativity in the Age of Generative AI"
+location="Msida, Malta"
+dates="17-11-2025"
+description="Gave a presentation on generative AI and creativity through the lenses of LLMaker."
+%}
+
+{% include cv_event.html
+title="OPtiMaL: Foundations of PCG"
+location="Online"
+dates="14-05-2025"
+description="Gave a tutorial on LLMaker."
+%}
+
+{% include cv_event.html
+title="Advanced Artificial Intelligence and Games (IDG5259)"
+location="Msida, Malta"
+dates="24-03-2025"
+description="Gave a tutorial on procedural content generation methods applied to video games."
+%}
+
+{% include cv_event.html
+title="AI and Games Crash Course"
+location="Msida, Malta"
+dates="07-03-2025"
+description="Seminar on applications artificial intelligence in video games. Presented work on large language models in video games."
+%}
+
 # Projects
+
+*Under construction*
 
 # Workshops and Conferences
 
+{% include cv_event.html
+title="IEEE Conference on Games '25"
+location="Lisbon, Portugal (remote)"
+dates="5-8/08/2024"
+description="Presentation of the demo paper 'Prompt Override: LLM Hacking as Serious Game'."
+%}
+
+{% include cv_event.html
+title="Artificial Intelligence in Music, Sound, Art and Design – 14th International Conference, EvoMUSART"
+location="Trieste, Italy (in person)"
+dates="22-25/04/2025"
+description="Presentation of the paper 'The Importance of Context in Image Generation: A Case Study for Video Game Sprites'."
+%}
+
+{% include cv_event.html
+title="IEEE Conference on Games '24"
+location="Milan, Italy (in person)"
+dates="5-8/08/2024"
+description="Presentation of the paper 'Consistent Game Content Creation via Function Calling for Large Language Models' and of the demo paper 'LLMaker: A Game Level Design Interface Using (Only) Natural Language'."
+%}
+
+{% include cv_event.html
+title="GECCO '24"
+location="Melbourne, Australia (remote)"
+dates="14-18/07/2024"
+description="Presentation of the poster 'Dynamic Quality-Diversity Search'."
+%}
+
+{% include cv_event.html
+title="Alife '23"
+location="Sapporo, Japan (remote)"
+dates="24-28/07/2023"
+description="Organized the workshop [Alife for and from video games](https://sites.google.com/view/alifeforandfromvideogames/home-page) with [Andrea Fanti](https://www.linkedin.com/in/andrea-fanti-940541301/) and [Lisa Soros](https://www.linkedin.com/in/lisasoros/)."
+%}
+
+{% include cv_event.html
+title="IEEE Conference on Games '22"
+location="Beijing, China (remote)"
+dates="21-24/08/2022"
+description="Presentation of the paper 'Surrogate Infeasible Fitness Acquirement FI-2Pop for Procedural Content Generation'."
+%}
+
+{% include cv_event.html
+title="GECCO '22"
+location="Boston, USA (remote)"
+dates="9-13/07/2022"
+description="Presentation of the poster 'Evolving Spaceships with a Hybrid L-system Constrained Optimisation Evolutionary Algorithm'."
+%}
+
+{% include cv_event.html
+title="Badger Seminar Summer 2021"
+location="Prague, Czech Republic (in person)"
+dates="26-31/07/2021"
+description="The aim of the five-day seminar was to bring together the GoodAI Research team, the GoodAI Grants recipients, and other experts in the field in order to advance the research in life-long learning, meta-learning, multi-agent learning and other directions that GoodAI believes are relevant for building generally intelligent agents; participant."
+%}
+
+{% include cv_event.html
+title="ALIFE2021"
+location="Prague, Czech Republic (remote)"
+dates="19-23/07/2021"
+description="Attendant."
+%}
+
 # Societies
+
+**2023-ongoing**: Member of the International Society for Artificial Life (ISAL).
+
+**2022-ongoing**: Member of the Association for Computing Machinery (ACM) Genetic and Evolutionary Computation Special Interest Group (SIGEVO)
 
 # Studies and Experiences Abroad
 
+{% include cv_event.html
+title="Artificial Intelligence and Games Summer School 2023"
+location="Cambridge (United Kingdom); 1 week"
+dates="26-30/06/2023"
+description="Covered academic and industrial applications of AI in video games."
+%}
+
+{% include cv_event.html
+title="SIGEVO Summer School 2022"
+location="Remote; 1 week"
+dates="2022"
+description="Covered general skills needed by GECCO researchers and in-depth knowledge about specific topics within GECCO."
+%}
+
+{% include cv_event.html
+title="Study trip with certification from Camden Lodge"
+location="Hastings (United Kingdom); 1 month"
+dates="2013"
+description="B2+ level (Upper intermediate) in General English and English Conversation."
+%}
+
 # Extracurricular
+
+{% include cv_event.html
+title="CyberChallenge.IT"
+location="Laboratorio Nazionale Cybersecurity - CINI (remote)"
+dates="03-06/2020"
+description="Formation on: Ethics, Cryptography, Web Security, Software Security, Hardware Security, Malware Analysis, Network security, and Reverse Engineering."
+%}
