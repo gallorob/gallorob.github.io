@@ -308,7 +308,7 @@ description="Literary contest 'Nei panni di un altro...' hosted by the newspaper
 title="Radon&Scuola"
 location="Grading in list: 1"
 dates="2015"
-description="RadioLab award for 'Radon&Scuola' contest organised by the Istituto Nazionale di Fisica Nucleare (INFN). High school project lead by [Prof. Paolo Maggioli]() with [Lorenzo Bracchi](), [Edoardo Cornalba](), [Francesco Crottini](), and [Jacopo Gianolli](). Development of the website [RadonInformati](https://radoninformati.wordpress.com/)."
+description="RadioLab award for 'Radon&Scuola' contest organised by the Istituto Nazionale di Fisica Nucleare (INFN). High school project lead by [Prof. Paolo Maggioli]() with [Lorenzo Bracchi](https://www.linkedin.com/in/lorenzo-bracchi1), [Edoardo Cornalba](https://www.linkedin.com/in/edoardo-cornalba/), [Francesco Crottini](https://www.linkedin.com/in/francesco-crottini-137988334/), and [Jacopo Gianolli](https://www.linkedin.com/in/jacopogianolli/). Development of the website [RadonInformati](https://radoninformati.wordpress.com/)."
 %}
 
 # Teaching
