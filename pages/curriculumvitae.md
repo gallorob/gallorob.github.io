@@ -137,7 +137,7 @@ title="Affectively Framework: Towards Human-like Affect-Based Agents"
 date="2024"
 authors="Matthew Barthet, **Roberto Gallotta**, Ahmed Khalifa, Antonios Liapis, Georgios N. Yannakakis"
 venue="Accepted at ACII 2024 (DUNGEONS, NEURONS, AND DIALOGUES: SOCIAL INTERACTION DYNAMICS IN CONTEXTUAL GAMES (DnD-SIDC) workshop)"
-description="This paper introduces the "Affectively Framework", a set of OpenAI Gym-compatible environments designed to incorporate human affect into the training of virtual agents. By integrating affective signals into the observation space, the framework enables exploration of the relationship between agent behavior and human emotional response. We present three game environments and validate the framework with baseline experiments using random and PPO agents, providing a foundation for future research in affect-aware reinforcement learning."
+description="This paper introduces the 'Affectively Framework', a set of OpenAI Gym-compatible environments designed to incorporate human affect into the training of virtual agents. By integrating affective signals into the observation space, the framework enables exploration of the relationship between agent behavior and human emotional response. We present three game environments and validate the framework with baseline experiments using random and PPO agents, providing a foundation for future research in affect-aware reinforcement learning."
 %}
 
 {% include cv_publication.html
@@ -182,7 +182,7 @@ description="This paper presents a Dynamic Quality-Diversity (QD) method to hand
 title="Dual-task effects of auditory discrimination task during walking and postural adjustments: A Mobile Brain/Body Imaging study in healthy individuals"
 date="2024"
 authors="Carlotta Maiocchi, Nicola Canessa, Leonardo Rassouli Baghi, **Roberto Gallotta**, Anna Wunderlich, Klaus Gramann, Bettina Wollesen, Claudia Gianelli"
-venue="Pending publication in the Proceedings of the Mobile Brain/Body Imaging Conference (MoBI 2024)"
+venue="Accepted at the Mobile Brain/Body Imaging Conference"
 description="This paper investigates the effects of dual-tasks in a physical and cognitive demanding task of audio discrimination."
 %}
 
