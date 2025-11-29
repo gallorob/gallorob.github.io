@@ -41,7 +41,7 @@ description="**Main activities and responsibilities:** Project DALE-Banca Popola
 
 **Acquired skills and achieved objectives:** JMS, JBoss, ActiveMQ, Docker, CentOS (Atomic) on VM, Rest and SOAP services."
 %}
-
+<!-- 
 {% include cv_event.html
 title="Java Software Developer (internship)"
 location="[Sync Lab srl](https://synclab.it/home) - Milan (Italy)"
@@ -49,7 +49,7 @@ dates="12/2018 - 02/2019"
 description="**Main activities and responsibilities:** Training projects.
 
 **Acquired skills and achieved objectives:** Learned how to incorporate into projects: Maven, SpringBoot, JPA (Hibernate), JDBC (H2, OracleSQL), Rest services, WSDL's generated objects. Code functionality test with: JUnit test, IntegrationTest via SoapUI, code quality with Sonar."
-%}
+%} -->
 
 # Education
 
