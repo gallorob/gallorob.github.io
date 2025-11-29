@@ -48,7 +48,7 @@ location="[Sync Lab srl](https://synclab.it/home) - Milan (Italy)"
 dates="12/2018 - 02/2019"
 description="**Main activities and responsibilities:** Training projects.
 
-**Acquired skills and achieved objectives:** Acquired skills and achieved objectives:} Learned how to incorporate into projects: Maven, SpringBoot, JPA (Hibernate), JDBC (H2, OracleSQL), Rest services, WSDL's generated objects. Code functionality test with: JUnit test, IntegrationTest via SoapUI, code quality with Sonar."
+**Acquired skills and achieved objectives:** Learned how to incorporate into projects: Maven, SpringBoot, JPA (Hibernate), JDBC (H2, OracleSQL), Rest services, WSDL's generated objects. Code functionality test with: JUnit test, IntegrationTest via SoapUI, code quality with Sonar."
 %}
 
 # Education
