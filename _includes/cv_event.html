@@ -1,7 +1,10 @@
 <div class="cv-event">
     <div class="cv-event__content">
-        <h3 class="cv-event__title">{{ include.title  | markdownify }} ({{ include.dates }})</h3>
-        <p class="cv-event__location">{{ include.location | markdownify }}</p>
+        <div class="cv-event__header">
+            <h3 class="cv-event__title">{{ include.title  | markdownify }}</h3>
+            <p class="cv-event__date">{{ include.dates }}</p>
+        </div>
+        <div class="cv-event__location"> {{ "🗺 " | append: include.location | markdownify }}</div>
         <div class="cv-event__description">
             {{ include.description | markdownify }}
         </div>

@@ -276,19 +276,9 @@ Original work developed by Andrea Fanti and Roberto Gallotta for the 'Seminars i
 
 ## Certificates
 
-{% include cv_event.html
-title="TOEFL iBT"
-location="106/120"
-dates="20/2023"
-description="ETS"
-%}
+**TOEFL iBT**: *106/120*; released in *2023* by *ETS*.
 
-{% include cv_event.html
-title="Cambridge First"
-location="Europass level B2"
-dates="07/2014"
-description="Cambridge English"
-%}
+**Cambrdige First**: *Eurpass level B2*; released in *2014* by *Cambridge English*.
 
 ## Achievements
 
@@ -366,137 +356,137 @@ description="Seminar on applications artificial intelligence in video games. Pre
 
 ## Projects
 
-{% include cv_event.html
+{% include cv_project.html
 title="WizTafl"
-location="Tool: Godot, C#"
+code="Tool: Godot, C#"
 dates="2025 (ongoing)"
 description="Dungeon crawler game inspired by the Wizardry series where combats are resolved on a Hnefatafl board with different rulesets."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[Prompt Override](https://github.com/gallorob/prompt-override)"
-location="Tool: Python, Textual"
+code="Tool: Python, Textual"
 dates="2025"
 description="Two-levels technical demo for the hacking-themed puzzle game Prompt Override. Developed using Python's Textual to play the game in the terminal emulator."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[LLMaker Server](https://github.com/gallorob/llmaker-server)"
-location="Tool: Python"
+code="Tool: Python"
 dates="2025"
 description="API for LLMaker. Offers access to Ollama locally-hosted models and Stable Diffusion assets generation. OS agnostic, can be deployed on a local machine or on the cloud. Access to the API is controlled via whitelisting user."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[Dungeon Despair](https://github.com/gallorob/dungeon-despair)"
-location="Tool: Python, PyGame"
+code="Tool: Python, PyGame"
 dates="2024-2025"
 description="Reverse dungeon crawler video game with procedurally generated heroes via large language models.
 
 Part of the AI4Media project, developed as part for the PhD."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[LLMaker](https://github.com/gallorob/llmaker)"
-location="Tool: Python, PyQt"
+code="Tool: Python, PyQt"
 dates="2023-2025"
 description="A mixed-initiative co-creation video game level design tool using large language models.
 
 Part of the AI4Media project, developed as part for the PhD."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[Face2Face](https://github.com/GameAISchool2023members/The-Warrens)"
-location="Tool: Python"
+code="Tool: Python"
 dates="2023"
 description="Python project developed for the 2023 AI And Games Summer School GameJam. Two players battle each other by matching an emotion. A visual emotion recognition machine learning model is employed.
 
 Team name: “The Warrens”; Members: Antonio Pio Ricciardi, Najada Kambo, Roberto Gallotta, Rupali Bhati, Sarra Graja, Wafa Aissa"
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[AI Spaceship Generator](https://github.com/arayabrain/space-engineers-ai-spaceship-generator)"
-location="Tool: Python, Plotly"
+code="Tool: Python, Plotly"
 dates="2022"
 description="Python webapp project developed for the Araya/GoodAI project. Users can evolve spaceships for Space Engineers starting from a random population.
 
 GoodAI official fork available on [GitHub](https://github.com/GoodAI/space-engineers-ai-spaceship-generator)."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[Tafl Gym](https://github.com/gallorob/tafl-gym)"
-location="Tool: Python"
+code="Tool: Python"
 dates="2021"
 description="Implementation of a Tafl Reinforcement Learning environment using OpenAI Gym.
 
 The project was developed for the master's thesis."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[GalloSearch](https://github.com/gallorob/gallosearch)"
-location="Tool: Python"
+code="Tool: Python"
 dates="2021"
 description="Ideation and implementation of GalloSearch, a geometric search algorithm.
 
 The project was developed as the final project for the Planning & Reasoning course."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[FEFFuL](https://github.com/gallorob/fefful)"
-location="Tool: Python"
+code="Tool: Python"
 dates="2021"
 description="Codebase for “FEFFuL: Few Examples Fitness Function Learner”, written with Andrea Fanti."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[LogBarrier Attack](https://github.com/gallorob/nn_logbarrier)"
-location="Tool: Python"
+code="Tool: Python"
 dates="2021"
 description="Implementation in Tensorflow 2.0 of the LogBarrier Attack.
 
 The project was developed with Andrea Fanti as the final project for the Neural Networks course."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[Hotel Assistant](https://github.com/gallorob/shri-project)"
-location="Tool: Python"
+code="Tool: Python"
 dates="2020"
 description="Python implementation of a hotel assistant. The project consists of receiving user audio input, using NLP techniques to process requests and returning an audio containing the response.
 
 The project was developed with Antonella Angrisani and Pietro Manganelli Conforti as the final project for the Social Human-Robot Interaction course."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[Compiler Classifier](https://github.com/gallorob/ml_homework-01)"
-location="Tool: Python"
+code="Tool: Python"
 dates="2019"
 description="Implementation of different classifiers for assembly instructions (first homework of the ML course)."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[Hnefatafl AI](https://github.com/gallorob/Hnefatafl-AI)"
-location="Tool: C#, WPF"
+code="Tool: C#, WPF"
 dates="2019"
 description="A C# implementation of Hnefatafl. Interactive GUI is provided via WPF (with the help of user Bardaky)."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[DOS Games Manager](https://github.com/gallorob/DOS_games_launcher)"
-location="Tool: C++, QT"
+code="Tool: C++, QT"
 dates="2019"
 description="C++ / Qt implementation of a graphical interface to manage DOS games using DOSBox."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[Damn Small Brandubh](https://github.com/gallorob/damn_small_brandubh)"
-location="Tool: C"
+code="Tool: C"
 dates="2019"
 description="Minimal C implementation of the Brandubh board game (a variant of Tafl)."
 %}
 
-{% include cv_event.html
+{% include cv_project.html
 title="[Standalone CGM Predictor](https://github.com/gallorob/standalone-cgm-predictor)"
-location="Tool: Python, MATLAB"
+code="Tool: Python, MATLAB"
 dates="2018"
 description="Predictor for blood glucose. Developed for the Bachelor's thesis. A re-implementation of the same codebase was used in [Therapy-driven Deep Glucose Forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0952197619302313)"
 %}
@@ -506,63 +496,63 @@ description="Predictor for blood glucose. Developed for the Bachelor's thesis. A
 {% include cv_event.html
 title="IEEE Conference on Games '25"
 location="Lisbon, Portugal (remote)"
-dates="5-8/08/2024"
+dates="26/08/2025 - 29/08/2025"
 description="Presentation of the demo paper 'Prompt Override: LLM Hacking as Serious Game'."
 %}
 
 {% include cv_event.html
 title="Artificial Intelligence in Music, Sound, Art and Design – 14th International Conference, EvoMUSART"
 location="Trieste, Italy (in person)"
-dates="22-25/04/2025"
+dates="22/04/2025 - 25/04/2025"
 description="Presentation of the paper 'The Importance of Context in Image Generation: A Case Study for Video Game Sprites'."
 %}
 
 {% include cv_event.html
 title="IEEE Conference on Games '24"
 location="Milan, Italy (in person)"
-dates="5-8/08/2024"
+dates="05/08/2024 - 08/08/2024"
 description="Presentation of the paper 'Consistent Game Content Creation via Function Calling for Large Language Models' and of the demo paper 'LLMaker: A Game Level Design Interface Using (Only) Natural Language'."
 %}
 
 {% include cv_event.html
 title="GECCO '24"
 location="Melbourne, Australia (remote)"
-dates="14-18/07/2024"
+dates="14/07/2024 - 18/07/2024"
 description="Presentation of the poster 'Dynamic Quality-Diversity Search'."
 %}
 
 {% include cv_event.html
 title="Alife '23"
 location="Sapporo, Japan (remote)"
-dates="24-28/07/2023"
+dates="24/07/2023 - 28/07/2023"
 description="Organized the workshop [Alife for and from video games](https://sites.google.com/view/alifeforandfromvideogames/home-page) with [Andrea Fanti](https://www.linkedin.com/in/andrea-fanti-940541301/) and [Lisa Soros](https://www.linkedin.com/in/lisasoros/)."
 %}
 
 {% include cv_event.html
 title="IEEE Conference on Games '22"
 location="Beijing, China (remote)"
-dates="21-24/08/2022"
+dates="21/08/2024 - 24/08/2022"
 description="Presentation of the paper 'Surrogate Infeasible Fitness Acquirement FI-2Pop for Procedural Content Generation'."
 %}
 
 {% include cv_event.html
 title="GECCO '22"
 location="Boston, USA (remote)"
-dates="9-13/07/2022"
+dates="09/07/2022 - 13/07/2022"
 description="Presentation of the poster 'Evolving Spaceships with a Hybrid L-system Constrained Optimisation Evolutionary Algorithm'."
 %}
 
 {% include cv_event.html
 title="Badger Seminar Summer 2021"
 location="Prague, Czech Republic (in person)"
-dates="26-31/07/2021"
+dates="26/07/2021 - 31/07/2021"
 description="The aim of the five-day seminar was to bring together the GoodAI Research team, the GoodAI Grants recipients, and other experts in the field in order to advance the research in life-long learning, meta-learning, multi-agent learning and other directions that GoodAI believes are relevant for building generally intelligent agents; participant."
 %}
 
 {% include cv_event.html
 title="ALIFE2021"
 location="Prague, Czech Republic (remote)"
-dates="19-23/07/2021"
+dates="19/07/2021 - 23/07/2021"
 description="Attendant."
 %}
 
@@ -577,7 +567,7 @@ description="Attendant."
 {% include cv_event.html
 title="Artificial Intelligence and Games Summer School 2023"
 location="Cambridge (United Kingdom); 1 week"
-dates="26-30/06/2023"
+dates="26/06/2023 - 30/06/2023"
 description="Covered academic and industrial applications of AI in video games."
 %}
 
@@ -600,6 +590,6 @@ description="B2+ level (Upper intermediate) in General English and English Conve
 {% include cv_event.html
 title="CyberChallenge.IT"
 location="Laboratorio Nazionale Cybersecurity - CINI (remote)"
-dates="03-06/2020"
+dates="03/2020 - 06/2020"
 description="Formation on: Ethics, Cryptography, Web Security, Software Security, Hardware Security, Malware Analysis, Network security, and Reverse Engineering."
 %}

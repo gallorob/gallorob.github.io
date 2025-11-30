@@ -1,8 +1,8 @@
 <div class="cv-publication">
     <div class="cv-publication__content">
-        <h3 class="cv-publication__title">Title: {{ include.title  | markdownify }} ({{ include.date }})</h3>
-        <p class="cv-publication__authors">Authors: {{ include.authors | markdownify }}</p>
-        <p class="cv-publication__venue">{{ include.venue | markdownify }}</p>
+        <h3 class="cv-publication__title">{{ include.title | append: " (" | append: include.date | append: ")" | markdownify }}</h3>
+        <div class="cv-publication__authors">{{ "Authors: " | append: include.authors | markdownify }}</div>
+        <div class="cv-publication__venue">{{ include.venue | markdownify }}</div>
         <div class="cv-publication__description">
             {{ include.description | markdownify }}
         </div>

@@ -1,0 +1,12 @@
+<div class="cv-project">
+    <div class="cv-project__content">
+        <div class="cv-project__header">
+            <h3 class="cv-project__title">{{ include.title  | markdownify }}</h3>
+            <p class="cv-project__date">{{ include.dates }}</p>
+        </div>
+        <div class="cv-project__code"> {{ "🖳 " | append: include.code | markdownify }}</div>
+        <div class="cv-project__description">
+            {{ include.description | markdownify }}
+        </div>
+    </div>
+</div>
