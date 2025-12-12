@@ -13,6 +13,7 @@ menu:
 # Projects Section
 
 projects:
+- {name: 'Olivetti Lettera 35',   url: 'olivetti-lettera35', year: 2025}
 - {name: 'Prompt Override',   url: 'prompt-override', year: 2025}
 - {name: 'LLMaker',   url: 'llmaker', year: 2024}
 - {name: 'PCGSEPy',   url: 'pcgsepy', year: 2022}
