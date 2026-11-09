@@ -13,7 +13,7 @@ permalink: /curriculumvitae
 {% include cv_event.html
 title="Visiting Forward Deployed AI Engineer (internship)"
 location="[BCG X](https://www.bcg.com/x/) - Milan (Italy)"
-dates="01/2026 - 06/2026"
+dates="05/2026 - 11/2026"
 description="Internship on two client-facing cases: insights extraction and root-cause costs/schedule analysis for large CAPEX projects, and products cross-sell recommendations for business-to-business sales. Both projects developed end-to-end, with test suites and maintance pipelines.
 
 **Acquired skills and achieved objectives:** Development of end-to-end workstream with client interactions, development of Claude Agents and Microsoft Azure Foundry Agents, integration of solutions in CI/CD deployment pipelines, collaboration with global team members."
