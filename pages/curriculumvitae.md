@@ -6,14 +6,30 @@ permalink: /curriculumvitae
 
 {% include static_image.html image="roberto.jpg" alt="roberto" w="128px" %}
 
-**Roberto Gallotta is currently employed as a Research Support Officer II at the [Institute of Digital Games](https://www.game.edu.mt/), University of Malta (Malta)**
+**Roberto Gallotta is currently looking for opportunities to apply their research to real-world problems. They are also interested in expanding their development stack and exploring new technologies.**
 
 ## Work Experience
 
 {% include cv_event.html
+title="Visiting Forward Deployed AI Engineer (internship)"
+location="[BCG X](https://www.bcg.com/x/) - Milan (Italy)"
+dates="01/2026 - 06/2026"
+description="Internship on two client-facing cases: insights extraction and root-cause costs/schedule analysis for large CAPEX projects, and products cross-sell recommendations for business-to-business sales. Both projects developed end-to-end, with test suites and maintance pipelines.
+
+**Acquired skills and achieved objectives:** Development of end-to-end workstream with client interactions, development of Claude Agents and Microsoft Azure Foundry Agents, integration of solutions in CI/CD deployment pipelines, collaboration with global team members."
+%}
+
+{% include cv_event.html
+title="Research Support Officer II (part-time)"
+location="[Institute of Digital Games](https://www.game.edu.mt/) - Malta (Malta)"
+dates="01/2026 - 06/2026"
+description="Research and development for EU projects PULSE-ART."
+%}
+
+{% include cv_event.html
 title="Research Support Officer II"
 location="[Institute of Digital Games](https://www.game.edu.mt/) - Malta (Malta)"
-dates="01/2023 - ongoing (01/2026)"
+dates="01/2023 - 01/2026"
 description="Research and development for EU projects [AI4MEDIA](https://ai4media.eu/), [RECLAIM](https://reclaim-box.eu/), and [OPtiMaL](https://optimal.institutedigitalgames.com/).
 
 **Main activities and responsibilities:** research and development of Large Language Models and Human-Computer Interaction.
